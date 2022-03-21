@@ -59,7 +59,7 @@ async def start_set(_, query: CallbackQuery):
                     InlineKeyboardButton("👥 Support Group", url=f"https://t.me/{GROUP_SUPPORT}"),
                     InlineKeyboardButton("📣 Support Channel", url=f"https://t.me/{UPDATES_CHANNEL}")
                 ],[
-                    InlineKeyboardButton("🌐 Source Code", url="https://github.com/levina-lab/video-stream")
+                    InlineKeyboardButton("🌐 MAZZIKA SOURCE", url="https://t.me/C_MAZZIKA")
                 ],
             ]
         ),
